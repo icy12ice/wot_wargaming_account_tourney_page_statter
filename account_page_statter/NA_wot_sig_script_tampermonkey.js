@@ -20,6 +20,4 @@ $j( document ).ready(function() {
         
     } catch(err) {
     }
-	
-    $j(".wotstats").css("overflow", "hidden");
 });
